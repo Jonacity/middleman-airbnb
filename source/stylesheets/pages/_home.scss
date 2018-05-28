@@ -1,5 +1,5 @@
 #home {
-  background-color: #D23333;
+  // background-color: #D23333;
   color: white;
   height: 100vh;
   display: flex;
@@ -14,4 +14,12 @@
     font-weight: bold;
     font-size: 16px;
   }
+}
+
+.container {
+  padding: 5%;
+}
+
+.container h2 {
+  text-align: center;
 }
