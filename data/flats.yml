@@ -1,0 +1,21 @@
+jonacity:
+  name: "Jonathan's home"
+  description: "Charming room in Maisons-Alfort"
+  city_name: "Maisons-Alfort, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 5
+willyder1te:
+  name: "Willy' home"
+  description: Small flat in Fribourg
+  city_name: "Fribourg, Germany"
+  city_slug: "berin"
+  wifi: true
+  rating: 4
+devitagus:
+  name: Gus's home
+  description: Nice flat in Garcia
+  city_name: "Barcelona, Spain"
+  city_slug: "barcelona"
+  wifi: true
+  rating: 3
